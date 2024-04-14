@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.home-page-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  border-radius: 6px;
+  padding: 30px;
+  margin: 30px;
+}
